@@ -1,0 +1,19 @@
+{
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.conf_level": "0.99",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.seg_file": "tests/COAD-3L-AA1B-TP-NB.segfile.seg",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.arm_peel": "1",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.do_gene_gistic": "1",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.refgene_file": "tests/hg38.UCSC.add_miR.160920.refgene.mat",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.join_segment_size": "4",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.del_thresh": "0.1",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.amp_thresh": "0.1",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.qv_thresh": "0.25",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.gene_collapse_method": "extreme",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.cnv_files": "tests/GDC_SNP6_CNV_list.161107.txt",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.cap": "1.5",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.max_sample_segs": "2000",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.remove_X": "0",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.broad_length_cutoff": "0.98",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.markers_file": "thisfiledoesnotexist",
+  "tool_gistic2_wgs_workflow.tool_gistic2_wgs.max_window_var": "10000"
+}
