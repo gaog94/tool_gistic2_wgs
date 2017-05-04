@@ -15,6 +15,6 @@ docker tag ggao/tool_gistic2_wgs
 
 Test-Run WDL
 ```
-### assuming cromwell-26.jar is in your home directory. if not, 
+### assuming cromwell-26.jar is in your home directory. If not, get it at https://github.com/broadinstitute/cromwell/releases
 java -jar ~/cromwell-26.jar run tool_gistic2_wgs.wdl tests/inputs.json
 ```
